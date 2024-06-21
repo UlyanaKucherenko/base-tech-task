@@ -1,0 +1,29 @@
+.header {
+  width: 100%;
+  background-color: var(--header-bg);
+  color: var(--header-text);
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 54px;
+  display: flex;
+  align-items: center;
+}
+
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-block: 0;
+}
+
+.nav {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+}
+
+.signIn {
+}

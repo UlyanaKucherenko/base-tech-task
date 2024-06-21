@@ -1,0 +1,11 @@
+:root {
+  /* COLORS */
+  --header-bg: #45474b;
+  --bg: #f5f7f8;
+  --header-text: #f5f7f8;
+  --bg-text: #45474b;
+  --btn-primary-bg: #f4ce14;
+  --btn-secondary-bg: #495e57;
+  --link-text: #f5f7f8;
+  --link-text-active: #6ff3c7;
+}
